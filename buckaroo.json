@@ -1,0 +1,6 @@
+{
+  "name": "buckaroo-wren-example",
+  "dependencies": {
+    "munificent/wren": "0.1.0"
+  }
+}
